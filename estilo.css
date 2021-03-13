@@ -1,0 +1,12 @@
+.til{
+	position: absolute;
+	top: 30%;
+	left: 48%;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	text-decoration: none;
+	border:#33BBFF 5px dotted;
+	border-radius: 50px;
+    color: White;
+}
